@@ -1,0 +1,2 @@
+# UnitySimpleLocalization
+Simple text localization
